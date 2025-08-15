@@ -35,20 +35,20 @@ export default function HomePage() {
       <div className="pointer-events-none absolute inset-0 -z-10 bg-black/40" />
 
       <section className="flex h-screen flex-col items-center justify-center">
-        <h1 className="text-5xl font-bold">Bienvenid@ 🚀</h1>
+        <h1 className="text-5xl font-bold">Bienvenido con los mejores programadores </h1>
         <p className="mt-4 max-w-2xl text-center text-lg">
-          Parallax con Next.js + Tailwind.
+         podras ver todos los servicios que trenemos 
         </p>
       </section>
 
       <section className="bg-gray-900 px-6 py-16">
-        <h2 className="mb-4 text-3xl font-semibold">Desplázate hacia abajo</h2>
+        <h2 className="mb-4 text-3xl font-semibold">Proyectos</h2>
         <div className="mx-auto max-w-3xl space-y-4">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum metus sed fermentum volutpat…
+            blood match 
           </p>
           <p>
-            Sigue haciendo scroll para ver cómo el fondo se mueve más lento que el contenido.
+         es una aplicacion de sangre 
           </p>
           <div className="h-[150vh]" />
         </div>
