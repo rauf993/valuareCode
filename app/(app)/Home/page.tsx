@@ -6,6 +6,7 @@ export default function HomePage() {
   const layerRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
+    console.log("Mio")
     let ticking = false;
     const onScroll = () => {
       if (!layerRef.current) return;
