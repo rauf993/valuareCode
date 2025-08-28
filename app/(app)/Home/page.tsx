@@ -37,7 +37,7 @@ export default function HomePage() {
       <section className="flex h-screen flex-col items-center justify-center">
         <h1 className="text-5xl font-bold">Bienvenido con los mejores programadores </h1>
         <p className="mt-4 max-w-2xl text-center text-lg">
-         podras ver todos los servicios que trenemos 
+         nnew proof page 
         </p>
       </section>
 
