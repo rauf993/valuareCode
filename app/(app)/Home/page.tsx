@@ -48,7 +48,7 @@ export default function HomePage() {
             blood match 
           </p>
           <p>
-         es una aplicacion de sangre 
+         nueva prueba 
           </p>
           <div className="h-[150vh]" />
         </div>
